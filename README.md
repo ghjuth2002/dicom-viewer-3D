@@ -21,3 +21,5 @@ and some simple computational geometry algorithms to generate 3D models of certa
 # Release
 - [Release msvc 2017](https://drive.google.com/file/d/1CP8jiLco1_gryoz_mbCdJC_O6Jq8JcPM/view?usp=sharing)
 - [VTK binarys msvc 2017](https://drive.google.com/file/d/14xWSCmUyoiDUJTjGzdh0Buf1E0NwSy7R/view?usp=sharing)
+# Test
+For testing, you can use [dicom example](https://github.com/ghjuth2002/dicom-viewer-3D/tree/master/dicom-example)
