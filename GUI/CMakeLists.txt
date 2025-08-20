@@ -1,0 +1,2 @@
+add_subdirectory(EventsModel)
+add_subdirectory(ConfigDialog)

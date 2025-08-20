@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GUI/styles/listView.qss</file>
+        <file>GUI/styles/menu.qss</file>
+        <file>GUI/styles/window.qss</file>
+        <file>GUI/styles/splitter.qss</file>
+        <file>GUI/styles/pushButton.qss</file>
+        <file>GUI/styles/dialog.qss</file>
+        <file>GUI/styles/comboBox.qss</file>
+        <file>GUI/styles/slider.qss</file>
+        <file>GUI/styles/label.qss</file>
+    </qresource>
+</RCC>

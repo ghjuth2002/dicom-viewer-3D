@@ -1,0 +1,12 @@
+QSplitter
+{
+    background: #525252;
+    border: 1px solid #aaa;
+    background-color: #f0f0f0;
+}
+QSplitter::handle:vertical
+{
+    background: #525252;
+    color: #525252;
+    width: 6px;
+}
