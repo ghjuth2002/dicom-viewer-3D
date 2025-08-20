@@ -17,6 +17,7 @@ and some simple computational geometry algorithms to generate 3D models of certa
 # Build requirements
 - Visual Studio 2017 msvc compiler
 - Qt 5
+- VTK 9.3
 - Windows 10 / 11
 # Release
 - [Release msvc 2017](https://drive.google.com/file/d/1CP8jiLco1_gryoz_mbCdJC_O6Jq8JcPM/view?usp=sharing)
