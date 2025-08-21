@@ -5,6 +5,7 @@ The program is designed for segmentation and creating 3D models of certain organ
 Main development tools Qt, VTK, C++.
 # Functionality
 - Build 3D Model from DICOM
+- Segmentation of certain organs
 - Set volume extraction parameters for model
 - Save 3D model to stl
 # Model types
